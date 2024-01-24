@@ -1,1 +1,1 @@
-In this repository, you will see the homework I did while learning SQL.
+In this repository, you will see the tasks I did while learning SQL.
